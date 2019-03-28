@@ -1,3 +1,2 @@
 # gmall
-test git
-lihai
+test
